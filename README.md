@@ -1,2 +1,3 @@
 # Javaxmldbmstest
-A java dbms which is in xml files and basic CRUD operations
+A java dbms which is in xml files and basic CRUD operations. Input is through index.html in Apache tomcat examples HelloWorld folder.
+These will also be added soon...
