@@ -2,7 +2,7 @@
 A java dbms which is in xml files and basic CRUD operations. Input is through index.html in Apache tomcat examples HelloWorld folder.
 These will also be added soon...
 
-ProgramtoIndexdb.java - A function in Selection sort - Find the min in each iteration and assign it to a new array - sortedarray till all the mins are sorted out.
+ProgramtoIndexdb.java - A function in Selection sort - Find the min in each iteration and assign it to a new array - sortedarray till all the mins are sorted out. The sorted file Sortednumberarray94711942974114425411975479321431791.xml is having a '<' character at the end. The last iteration is being done on th basis of file length. This has to be checked. The CV's are being uploaded. The max size is 100 records. Bufferring and insert and delete functionality has to be added soon.
 
     private static long[] SelectionSort(long mobilenumbers[])  {
     int jmincntr=0; 
